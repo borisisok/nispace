@@ -1,2 +1,2 @@
 # nispace
-A Jmonkey and physics engine testlab.
+Jmonkey 3D and physics engine testlab.
